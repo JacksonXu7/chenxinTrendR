@@ -6,6 +6,7 @@ chenxin
 支持: python -m trendradar
 """
 
+
 import os
 import webbrowser
 from pathlib import Path
